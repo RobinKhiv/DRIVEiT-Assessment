@@ -4,7 +4,11 @@ Responsive React front end application that will access a PHP file and print out
 
 ## Live Link
 
-* [LIVE](https://driveit-assessment-rk.herokuapp.com) - React JS
+* [LIVE](https://driveit-assessment-rk.herokuapp.com) - Live link to application
+
+## PHP File
+
+* [PHP-FILE](https://github.com/RobinKhiv/simple-php-api) - Location of php file that will access the required API
 
 ## Getting Started
 
@@ -26,9 +30,10 @@ then install all the dependencies using node package manager
 
 ```
 npm install
-
 ```
+
 A additional file .env will have to be created in the root folder if you would like to access the php file. The .env will consist of:
+
 ```
 REACT_APP_API=yourphpfilelink
 ```
@@ -40,9 +45,7 @@ The front end application can be ran on the local machine by
 ```
 npm start
 ```
-## PHP File
 
-* [PHP-API](https://github.com/RobinKhiv/simple-php-api) - Location of php file that will access the required API
 
 ## Built With
 
