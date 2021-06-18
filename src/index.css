@@ -125,3 +125,9 @@ textarea {
   transition: all 0.3s;
   font-size: 1.2em;
 }
+
+.loading {
+  margin: 0 auto;
+  width: 20%;
+  display: block;
+}
