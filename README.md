@@ -2,6 +2,10 @@
 
 Responsive React front end application that will access a PHP file and print out all the users listed in a grid format. 
 
+## Live Link
+
+* [LIVE](https://driveit-assessment-rk.herokuapp.com) - React JS
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -45,6 +49,7 @@ npm start
 * [React](https://reactjs.org) - React JS
 * [NodeJS](https://nodejs.org/) - Node Package Manager
 * [Visual Studio Code](https://code.visualstudio.com) - IDE
+* [Heroku](https://www.heroku.com) - Deployment
 
 ## Authors
 
