@@ -8,8 +8,10 @@ const App = () => {
 
   return (
     <main>
-      <section className="card">
-        {users.map(user => <Card key={user.id} user={user}/>)}
+      <section className="section">
+        <div className="cards row">
+            {users.map(user => <Card key={user.id} user={user}/>)}
+        </div>
       </section>
     </main>
   )
